@@ -1,0 +1,64 @@
+#talk {
+  margin: 20px;
+  padding: 10px;
+  background-color: #f5f5f5;
+  border-radius: 8px;
+  font-family: Arial, sans-serif;
+}
+
+#talk div {
+  margin-bottom: 10px;
+  padding: 5px;
+}
+
+#talk2 {
+  margin: 20px;
+  padding: 10px;
+  background-color: #e7e7ff;
+  border-radius: 8px;
+  font-family: Arial, sans-serif;
+}
+
+#talk2 div {
+  margin-bottom: 10px;
+  padding: 10px;
+  border: 2px solid #ccc;
+}
+
+#hawk1uh {
+  font-size: 2em;
+}
+
+#hawk2uh {
+  font-size: 1.5ex;
+}
+
+#hawk3uh {
+  width: 20ch;
+}
+
+#hawk4uh {
+  font-size: 1.5rem;
+}
+
+#hawk5uh {
+  width: 50vw;
+}
+
+#hawk6uh {
+  height: 30vh;
+}
+
+#hawk7uh {
+  width: 20vmin;
+  height: 20vmin;
+}
+
+#hawk8uh {
+  width: 20vmax;
+  height: 20vmax;
+}
+
+#hawk9uh {
+  width: 50%;
+}
